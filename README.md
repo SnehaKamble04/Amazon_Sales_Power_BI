@@ -24,9 +24,6 @@ This **Amazon Sales Dashboard** is built using **Power BI** to provide detailed 
 2. **Open the `.pbix` File** in Power BI Desktop.
 3. **Interact with the Dashboard** to explore sales insights and filter data as needed.
 
-## Dashboard Preview
-![Dashboard Preview](dashboard-preview.png)
-
 ## Business Impact
 - **Sales Optimization** – Helps businesses focus on high-performing products and locations.
 - **Customer Insights** – Identifies purchasing patterns and top buyers.
